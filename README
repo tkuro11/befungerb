@@ -1,0 +1,6 @@
+Befunge-93 implementation using ruby.
+
+./befunge.rb [-d] <befunge file>
+
+   -d   output debugging information
+
